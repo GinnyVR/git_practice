@@ -2,6 +2,12 @@
 
 const newFile = () => {
     let i = Math.floor(Math.random()*10)
+
+
+    if (i >= 6) {
+        console.log('uuh i found ' + i + ' rocks as well!')
+    }
+
     return i
 }
 
