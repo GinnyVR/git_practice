@@ -13,4 +13,4 @@ const newFile = () => {
 
 console.log(newFile())
 
-//stick stick dont do the prick and find a rock
+//stick stick dont do the prick and find a rock, and some rocks that are nice
